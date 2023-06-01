@@ -9,7 +9,7 @@ public class Welcome {
     @RequestMapping("/hello")
     public  String hello()
     {
-        return "hello welcome rohit";
+        return "Welcome to my first spring application";
     }
 
 }
